@@ -1,0 +1,47 @@
+#gameDiv {
+  font-family: "Oswald", sans-serif;
+  /* background-color: #9d9171; */
+  color: whitesmoke;
+  border: 3px solid;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+body {
+  background-color: #533745;
+  padding: 50px;
+}
+
+#computer-choice,
+#your-choice,
+#result {
+  color: #9d9171;
+}
+button {
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+}
+
+.choiceBtn1 {
+  color: whitesmoke;
+  background-color: #c4a287;
+  font-family: "Oswald", sans-serif;
+}
+
+.choiceBtn2 {
+  color: whitesmoke;
+  background-color: #ab4e68;
+  font-family: "Oswald", sans-serif;
+}
+
+.choiceBtn3 {
+  color: whitesmoke;
+  background-color: #b07156;
+  font-family: "Oswald", sans-serif;
+}
